@@ -2,7 +2,7 @@ name: CI - Docker y GHCR
 
 on:
   push:
-    branches: [main]
+    branches: [Master]
   workflow_dispatch:
 
 permissions:
